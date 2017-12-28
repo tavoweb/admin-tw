@@ -3,7 +3,7 @@
 Plugin Name: Admin TW
 Plugin URI: https://tavoweb.lt/admin-tw
 Description: Change Wordpress admin bar, menu, login, footer, icon and colors
-Version: 1.0.1
+Version: 1.0.2
 Author: TAvoWEB
 Author URI: www.tavoweb.lt
 Text Domain: admin_theme
@@ -47,4 +47,4 @@ class Admin_Theme_tw {
 new Admin_Theme_tw;
 //support widget
 require_once 'widget.php';
-require_once 'rename-wp-login.php';
+
