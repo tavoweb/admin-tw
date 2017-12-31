@@ -29,7 +29,7 @@ if (! function_exists ( 'deandev_add_dashboard_widgets' )) {
 					<a href="https://mano.tavoweb.lt/knowledge-base" target="_blank" class="button"> TavoWEB pagalba </a>
 				</p>
 				<p>
-					<a href="https://wordpress.org/plugins/search.php?q=tavoweb" target="-_blank" class="button">Kiti mūsų įskiepiai</a>
+					<a href="https://github.com/tavoweb/" target="-_blank" class="button">Kiti mūsų įskiepiai</a>
 				</p>
 					<p>
 						<small><a href="https://www.tavoweb.lt" target="_blank">Apsilankykite mūsų svetainėje</a></small>

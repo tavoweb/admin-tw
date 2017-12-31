@@ -24,7 +24,7 @@
 	<div class="box-body b-t hide">
 		<p>
 			<label>Logo image <br>
-				<input name="<?php echo $this->setting->setting_name; ?>[login_logo]" value="<?php esc_html_e( $this->setting->get_setting('login_logo') ); ?>" type="text">
+				<input name="<?php echo $this->setting->setting_name; ?>[login_logo]" value="https://tavoweb.lt/logo/logor.png" type="text">
 				<button type="button" class="button-secondary upload-btn">Upload</button>
 			</label>
 		</p>
