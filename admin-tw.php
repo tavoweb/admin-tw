@@ -1,14 +1,14 @@
 <?php
 /**
 Plugin Name: Admin TW
-Plugin URI: https://tavoweb.lt/admin-tw
+GitHub Plugin URI: https://github.com/tavoweb/admin-tw
+Plugin URI: https://github.com/tavoweb/admin-tw
 Description: Change Wordpress admin bar, menu, login, footer, icon and colors
-Version: 1.0.2
-Author: TAvoWEB
+Version: 1.0.3
+Author: TavoWEB
 Author URI: www.tavoweb.lt
 Text Domain: admin-tw
 Domain Path: /languages
-GitHub Plugin URI: https://github.com/tavoweb/admin-tw
 */
 
 class Admin_Theme_tw {
