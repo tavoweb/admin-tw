@@ -29,6 +29,9 @@ if (! function_exists ( 'deandev_add_dashboard_widgets' )) {
 					<a href="https://mano.tavoweb.lt/knowledge-base" target="_blank" class="button"> TavoWEB pagalba </a>
 				</p>
 				<p>
+					<a href="https://www.stinklas.lt" target="-_blank" class="button">sTinklas.lt</a>
+				</p>
+				<p>
 					<a href="https://github.com/tavoweb/" target="-_blank" class="button">Kiti mūsų įskiepiai</a>
 				</p>
 					<p>
