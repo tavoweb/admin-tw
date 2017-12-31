@@ -6,8 +6,9 @@ Description: Change Wordpress admin bar, menu, login, footer, icon and colors
 Version: 1.0.2
 Author: TAvoWEB
 Author URI: www.tavoweb.lt
-Text Domain: admin_theme
+Text Domain: admin-tw
 Domain Path: /languages
+GitHub Plugin URI: https://github.com/tavoweb/admin-tw
 */
 
 class Admin_Theme_tw {
