@@ -21,15 +21,17 @@ if (! function_exists ( 'deandev_add_dashboard_widgets' )) {
 	<tbody>
 		<tr>
 		    <td>
-
 				<p>
-					Norėdamin gauti TavoWEB pagalbą kreipkitės<br> e-paštu <b>mano@tavoweb.lt</b> <br> telefonu <b>+37069370376.</b>
+					Norėdamin gauti TavoWEB pagalbą kreipkitės<br> E-paštu <b><a href="mail:mano@tavoweb.lt" target="_blank">mano@tavoweb.lt</a></b> <br> Telefonu <b>+37069370376.</b>
+				</p>
+				<p>
+					<a href="https://tavopc.lt/c/programavimas/wordpress" target="_blank" class="button"> Forumas </a>
 				</p>
 				<p>
 					<a href="https://mano.tavoweb.lt/knowledge-base" target="_blank" class="button"> TavoWEB pagalba </a>
 				</p>
 				<p>
-					<a href="https://www.stinklas.lt" target="-_blank" class="button">sTinklas.lt</a>
+					<a href="https://www.stinklas.lt/tavoweb" target="-_blank" class="button">Mes sTinklas.lt</a>
 				</p>
 				<p>
 					<a href="https://github.com/tavoweb/" target="-_blank" class="button">Kiti mūsų įskiepiai</a>
@@ -39,7 +41,6 @@ if (! function_exists ( 'deandev_add_dashboard_widgets' )) {
 						<small>| <a id="wp_tavoweb_widget_hide" href="#">  Neberodyti valdiklio</a></small>
 						
 					</p>
-					
 			</td>
 		</tr>
 
